@@ -8,11 +8,11 @@
 
 Este é meu repositório para o desafio de código de 100 dias. Meus objetivos são
 
--[] Desenvolver habilidades do pensamento lógico 
--[] Adquirir conhecimentos básicos e aprofundados de HTML/CSS 
--[] Autonomia no desenvolvimento do código 
--[] Especializar em interface de usuário 
--[] Principais repositórios
+- [ ] Desenvolver habilidades do pensamento lógico 
+- [ ] Adquirir conhecimentos básicos e aprofundados de HTML/CSS 
+- [ ] Autonomia no desenvolvimento do código 
+- [ ] Especializar em interface de usuário 
+- [ ] Principais repositórios
 
 Meus subprojetos:
 
