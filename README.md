@@ -21,7 +21,6 @@ Início 15 de fevereiro - 2022
 
 |Day|What I studied | Talk about |Time |
 |------|------|------|-------| 
-
 | 01 | Personalização dos produtos utilizados no site  baseado em web HTML e CSS || 1h |
 | 02 | Curso DIO - introdução a lógica de programação|| 1:20h  |
 | 03 | Exercício sobre repetição utilizando o Portugol Studio e finalização do curso de introdução a lógica de programação. | | 2h |
