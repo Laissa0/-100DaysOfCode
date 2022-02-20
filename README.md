@@ -26,7 +26,7 @@ Início 15 de fevereiro - 2022
 | 03 | Exercício sobre repetição utilizando o Portugol Studio e finalização do curso de introdução a lógica de programação. | | 2h |
 | 04 | Personalização do github | | 2h |
 | 05 | Finaliza curso introdução a HTML5 e CSS3 e gerar primeira pág || 4h |
-| 06 |  |  |  |
+| 06 | Exercicio de HTML5 e CSS3 animation pink loading || 3h |
 | 07 |  |  |  |
 | 08 |  |  |  |
 | 09 |  |  |  |
