@@ -27,7 +27,7 @@ Início 15 de fevereiro - 2022
 | 04 | Personalização do github | | 2h |
 | 05 | Finaliza curso introdução a HTML5 e CSS3 e gerar primeira pág || 4h |
 | 06 | Exercicio de HTML5 e CSS3 animation pink loading || 3h |
-| 07 |  |  |  |
+| 07 | Inicio do bootcamp Eduzz Fullstack Developer - Estudo de Projetos ágeis com SCRUM || 3h |
 | 08 |  |  |  |
 | 09 |  |  |  |
 | 10 |  |  |  |
