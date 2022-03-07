@@ -29,12 +29,12 @@ Início 15 de fevereiro - 2022
 | 06 | Exercicio de HTML5 e CSS3 animation pink loading || 3h |
 | 07 | Inicio do bootcamp Eduzz Fullstack Developer - Estudo de Projetos ágeis com SCRUM || 3h |
 | 08 | Ultimas atualizações do cod do novo modelo de checkout da empresa; Correções de bugs + novas imagens digitais; Finalização do treinamento em Git e Github da DIO;|  | 3h |
-| 09 |  |  |  |
-| 10 |  |  |  |
-| 11 |  |  |  |
-| 12 |  |  |  |
-| 13 |  |  |  |
-| 14 |  |  |  |
+| 09 | Inicio do curso de JavaScript ES6|  |4h  |
+| 10 | Aplicação do loader animation no site de checkout da empresa|  | 3h  |
+| 11 | Estudos em bootstrap|  | 2h |
+| 12 | Aplicação de bootstrap e gif de carregamento personalizado |  | 3h  |
+| 13 | Fim do curso de bootstrap |  | 2h |
+| 14 | Projeto do bootstrap |  | 4h  |
 | 15 |  |  |  |
 | 16 |  |  |  |
 | 17 |  |  |  |
