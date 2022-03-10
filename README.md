@@ -35,9 +35,9 @@ Início 15 de fevereiro - 2022
 | 12 | Aplicação de bootstrap e gif de carregamento personalizado |  | 3h  |
 | 13 | Fim do curso de bootstrap |  | 2h |
 | 14 | Projeto do bootstrap |  | 4h  |
-| 15 |  |  |  |
-| 16 |  |  |  |
-| 17 |  |  |  |
+| 15 | Ccarregamento para trocar de pág|  | 2h |
+| 16 | Aula de responsividade  e introdução ao python|  | 4h |
+| 17 | Livro "Não me faça pensar" Steve Krug |  | 3h |
 | 18 |  |  |  |
 | 19 |  |  |  |
 | 20 |  |  |  |
@@ -121,3 +121,8 @@ Início 15 de fevereiro - 2022
 | 98 |  |  |  |
 | 99 |  |  |  |
 | 100 |  |  |  |
+
+# Links úteis:
+
+Não me faça pensar - Steve Krug <https://docero.com.br/doc/x5sv5ee>
+Digital Inovationn - https://www.dio.me/en
