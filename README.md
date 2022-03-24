@@ -38,12 +38,12 @@ Início 15 de fevereiro - 2022
 | 15 | Ccarregamento para trocar de pág|  | 2h |
 | 16 | Aula de responsividade  e introdução ao python|  | 4h |
 | 17 | Livro "Não me faça pensar" Steve Krug |  | 3h |
-| 18 |  |  |  |
-| 19 |  |  |  |
-| 20 |  |  |  |
-| 21 |  |  |  |
-| 22 |  |  |  |
-| 23 |  |  |  |
+| 18 | Aula de flexbox e resposividade|  | 2h |
+| 19 | Atividade de flexbox e resposividade + leitura "Não me faça pensar" |  | 2h |
+| 20 | Aplicação de flexbox no aplicativo do Colibri |  | 2h |
+| 21 | Finalizando o primeiro modulo de flexbox e atualização do GitHub |  | 2h |
+| 22 | Alterção de interface no aplicativo do Colibri |  | 3h |
+| 23 | Entrega do projeto do curso de flexbox |  | 3h |
 | 24 |  |  |  |
 | 25 |  |  |  |
 | 26 |  |  |  |
